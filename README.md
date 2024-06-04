@@ -4,7 +4,9 @@
 
 Our research focuses on a data-driven approach to recommend movie co-stardom in perspective of profitability. We collected movie and actor data to construct collaboration network, and utilized node embedding (*EGES*, *Node2Vec*) and message passing machanism (*GCN*, *SEAL*) to solve a link prediction task.
 
-Experiments
+For Detail please see *`Graph Neural Network for Movie Co-star Recommendation.pdf`*
+
+Model & Experiments
 -----------
 
 We conducted experiments on the collaboration network data of movie actors using
