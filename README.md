@@ -1,4 +1,4 @@
-# 112-2-SMA-Final-Project
+# 2024(Spring)-SMA-Final-Project
 ## Graph Neural Network for Movie Co-star Recommendation
 > *This is a school project for **Social Media Analysis***
 
