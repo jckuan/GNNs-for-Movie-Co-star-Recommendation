@@ -14,3 +14,8 @@ tensorflow
 keras
 easydict
 xgboost
+
+# for Demo
+gradio
+adjustText
+pillow
