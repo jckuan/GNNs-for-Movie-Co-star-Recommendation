@@ -31,9 +31,9 @@ Contribution
 -----------
 | Contributor | Work |
 |-------------|------|
-| *Jih-Ming Bai* | Problem Formulation, Models, Experiments and Analysis |
+| *Jih-Ming Bai* | Problem Formulation, Model, Experiment and Analysis |
 | *Cheng-Yu Kuan* | Literature Review, Gradio Demo   |
-| *Po-Yen Chu*    | EGES Model and Experiments       |
+| *Po-Yen Chu*    | EGES Model and Experiment       |
 | *Shang-Qing Su* | Data Collection, Report Delivery |
 | *Chia-Shan Li*  | Data Collection, Report Delivery |
 
