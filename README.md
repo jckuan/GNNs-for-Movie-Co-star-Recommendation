@@ -24,3 +24,14 @@ We used AUC as the model evaluation metric.
 |-------|----------|--------|-----|------|
 | Valid |   61.1%  |  59.2% | 67.2% | 84.5% |
 | Test  |   55.3%  |  59.2% | 67.6% | 80.1% |
+
+Contribution
+-----------
+| Contributor | Work |
+|-------------|------|
+| *Jih-Ming Bai* | Problem Formulation, Models, Experiments and Analysis |
+| *Cheng-Yu Kuan* | Literature Review, Gradio Demo   |
+| *Po-Yen Chu*    | EGES Model and Experiments       |
+| *Shang-Qing Su* | Data Collection, Report Delivery |
+| *Chia-Shan Li*  | Data Collection, Report Delivery |
+
