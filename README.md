@@ -27,7 +27,10 @@ We used AUC as the model evaluation metric.
 ## Empirical Results
 
 Below are some examples shown on a Gradio interface.
-![Expected output]()
+
+![Cillian, Emily](Cillian_Emily.png)
+![Emma, Mark](Emma_Mark.png)
+![Robert, Chris](Robert_Chris.png)
 
 ## Contribution
 
