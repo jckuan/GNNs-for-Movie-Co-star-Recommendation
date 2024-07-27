@@ -1,9 +1,8 @@
-
-## Graph Neural Network for Movie Co-star Recommendation
+# Graph Neural Network for Movie Co-star Recommendation
 
 [**[paper]**](https://drive.google.com/file/d/1IgunKXLMQ79FNa_EPTB9jD0qhMjMNF9f/view?usp=drive_link) | [**[slides]**](https://drive.google.com/file/d/1iwTejAxF8fyCZaaDBvE6iDzNs33SaQI1/view?usp=drive_link)
 
-Our research focuses on a data-driven approach to recommend movie co-stardom in perspective of profitability. We collected movie and actor data to construct collaboration network, and utilized node embedding (*EGES*, *Node2Vec*) and message passing machanism (*GCN*, *SEAL*) to solve a link prediction task.
+Our research takes a data-driven approach to recommend co-starring in a movie. We collected movie and actor data from multiple sources to construct a network, and utilized node embeddings (*EGES*, *Node2Vec*) and message passing machanisms (*GCN*, *SEAL*) to solve a link prediction task.
 
 ## Models & Experiments
 
@@ -24,6 +23,11 @@ We used AUC as the model evaluation metric.
 |-------|----------|--------|-----|------|
 | Valid |   61.1%  |  59.2% | 67.2% | 84.5% |
 | Test  |   55.3%  |  59.2% | 67.6% | 80.1% |
+
+## Empirical Results
+
+Below are some examples shown on a Gradio interface.
+![Expected output]()
 
 ## Contribution
 
