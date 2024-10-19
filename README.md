@@ -1,4 +1,4 @@
-# Graph Neural Network for Movie Co-star Recommendation
+# Graph Neural Networks for Movie Co-star Recommendation
 
 [**[paper]**](https://drive.google.com/file/d/1IgunKXLMQ79FNa_EPTB9jD0qhMjMNF9f/view?usp=drive_link) | [**[slides]**](https://drive.google.com/file/d/1iwTejAxF8fyCZaaDBvE6iDzNs33SaQI1/view?usp=drive_link)
 
